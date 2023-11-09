@@ -31,4 +31,4 @@ class Storage:
 
     def isempty(self):
         """ Return True if the list is empty, otherwise False """
-        return self.head is None
+        return self.head == None
