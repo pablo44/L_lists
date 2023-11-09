@@ -1,0 +1,1 @@
+hallo we are Partik und herr Pawel, linked lists are on the table
